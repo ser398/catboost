@@ -32,7 +32,7 @@ matrix:
   include:
     - os: linux
       dist: trusty
-      language: cpp
+      language: xential
       env: CB_BUILD_AGENT='clang-linux-x86_64-release-cuda'
       script: ~/build/${TRAVIS_REPO_SLUG}/ci/travis/script.sh
     - os: linux
