@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/license-Apache-blue.svg)](https://github.com/catboost/catboost/blob/master/LICENSE)
 [![PyPI version](https://badge.fury.io/py/catboost.svg)](https://badge.fury.io/py/catboost)
 
+Dzhunusov Sergey
 CatBoost is a machine learning method based on [gradient boosting](https://en.wikipedia.org/wiki/Gradient_boosting) over decision trees.
 
 Main advantages of CatBoost:
