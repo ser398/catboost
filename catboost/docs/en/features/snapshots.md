@@ -80,7 +80,7 @@ The native {{ product }} model file ({{ yandex-specific__model_ops__EConvertMode
 
   {% cut "save_snapshot" %}
 
-     `save_snapshot`
+     `snapshot_file`
 
      {% include [python-save-snapshot__python-desc__short-desc](../_includes/work_src/reusage/save-snapshot__python-desc__short-desc.md) %}
 
